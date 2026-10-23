@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "GV Top up
+var website_name = "GS Top up
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
@@ -16,8 +16,7 @@ var telegram_group_link = "telegram group link";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = https://www.youtube.com/@abdullahbhai1..00
-
+https://www.youtube.com/@abdullahbhai1..00
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
