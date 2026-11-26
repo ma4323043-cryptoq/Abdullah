@@ -22,10 +22,40 @@
     }
   ],
   "images": {
-    "pop": "img-pop-1794238772629.png",
-    "wm": "img-wm-1794239118996.jpg"
+    "wm": "img-wm-1794239118996.jpg",
+    "pop": "img-pop-1794238772629.png"
   },
-  "prod": null,
+  "prod": {
+    "ff": {
+      "packages": [
+        {
+          "label": "200 FF LIKE- প্রতিদিন ১ আইডিতে ১বার",
+          "name": "200 FF LIKE",
+          "price": 30
+        },
+        {
+          "label": "3000 FF LIKE- 15 দিন এ পাবেন",
+          "name": "3000 FF LIKE",
+          "price": 450
+        },
+        {
+          "label": "6000 FF LIKE- 30 দিন এ পাবেন",
+          "name": "6000 FF LIKE",
+          "price": 900
+        },
+        {
+          "label": "12000 FF LIKE- 60 দিন এ পাবেন",
+          "name": "12000 FF LIKE",
+          "price": 1800
+        },
+        {
+          "label": "100000",
+          "name": "100000",
+          "price": 1
+        }
+      ]
+    }
+  },
   "texts": {
     "pop": "সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট\nGS TOP UP ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে\nঅর্ডার করুন নিশ্চিন্তে 👍"
   }
